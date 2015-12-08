@@ -1,0 +1,7 @@
+1. Both weibo and twittter collection scripts are running on the HPC.
+	the corresponding directory is: /home/g_w38/weibo/getWeibo_0717.py
+					/home/g_w38/twitter/getTwitter_USA.py
+2. Collected raw data are stored in:
+	for twitter: /home/g_w38/twitter/streamer_*****.json
+	for weibo: /home/g_w38/weibo/Weibo_data_collect/2015***.json
+3.Before we move to HPC, some collected data are stored under D:\***_data_collect in your server.
